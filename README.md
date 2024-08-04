@@ -69,13 +69,13 @@
 <div>
   <p align="center">
 	<a href="https://github.com/alexniga/ProiectJavaSpring">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=alexniga&repo=ProiectJavaSpring&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=alexniga&repo=ProiectJavaSpring&theme=tokyonight" alt="ProiectJavaSpring" />
   </a>
   <a href="https://github.com/alexniga/IntroductionToRobotics">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=alexniga&repo=IntroductionToRobotics&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=alexniga&repo=IntroductionToRobotics&theme=tokyonight" alt="IntroductionToRobotics" />
   </a>
   <a href="https://github.com/alexniga/DungenSlayer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=alexniga&repo=DungenSlayer&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=alexniga&repo=DungenSlayer&theme=tokyonight" alt="DungenSlayer" />
   </a>
   </p>
 </div>
