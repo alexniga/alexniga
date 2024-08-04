@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Game developer that wants to create new wolrds &#127470;&#127475</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif">
 </a>
 
 - 🔭 I’m currently working as a Game developer
