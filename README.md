@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alex.nigactin@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/alexniga/overlay/1635532775627/single-media-viewer?type=DOCUMENT&profileId=ACoAACl1pSoBf8DmVCwYvR_ly9WgId5GFkd91_U&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BQGZDl1yRT5iO9euRw2it6g%3D%3D" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/alexniga/overlay/1745706616763/single-media-viewer/?profileId=ACoAACl1pSoBf8DmVCwYvR_ly9WgId5GFkd91_U" target="blank">Resume</a>
 <br/>
 <br/>
 <br/><!-- LANGUAGES AND TOOLS -->
